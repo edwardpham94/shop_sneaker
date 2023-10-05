@@ -1,0 +1,40 @@
+.member {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+h2 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  color: #404040;
+}
+
+h4 {
+  margin: 10px 0 0 0;
+  color: #333333;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+h5 {
+  margin: 0 0 20px 0;
+  color: #404040;
+}
+.member-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slick-image {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
